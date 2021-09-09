@@ -15,7 +15,7 @@ x9 = "However universe's life is estimated way bigger than a human's life"
 x10 = "The problem lay's on universal inflation index it's just one number let's say it's zero"
 x11 = "for universal inflation = 0 percent if there was an astrology vs astronomy debate earth's movement should stop"
 x12 = "wavefunction is malfunctioning either ways but earth keeps moving 100 percent in real time as nature dictates while according to astrologers shouldn't be moving"
-x13 = "On an astrologers Metaverse there are maps full of gaps errors and wasted coffeshop talks while in the antronomer's metaverse there is creativity and more life"
+x13 = "On an astrologers Metaverse there are maps full of gaps errors and wasted coffeshop talks while in the astronomer's metaverse there is creativity and more life"
 
 
 print(bool(x))
